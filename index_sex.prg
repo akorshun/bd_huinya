@@ -6,7 +6,10 @@ use STUD index fio_index new
     //index on Str(Month(dr)) + descend(Str(stip)) to idx
     //set filter to Year(dr)<=1999 .and. sex
     //set filter to Month(dr)=10
-    index on if(sex,2000 - Year(dr),0) to idx
+    //index on if(sex,1991 - Year(dr),0) to idx
+    //index on if(Month(dr)>=5 .and. Month(dr)<=10,1,0) to idx
+    //index on if(Month(dr)=5 .or. Month(dr)=10,1,0) to idx
+    index on if(stip<1500,1,0) to idx
     seek 1
 //go top
 do while !eof()
