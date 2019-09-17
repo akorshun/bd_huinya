@@ -1,6 +1,6 @@
 set date Italian
-st={{'ngr','N',8,2}, {'spec','C',15,0}}
-dbcreate('GR',st)
+gr={{'ngr','N',8,2}, {'spec','C',15,0}}
+dbcreate('GR',gr)
 use GR new
 append blank
 repl ngr with 1
