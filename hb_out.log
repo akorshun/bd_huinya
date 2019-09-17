@@ -2,3 +2,63 @@ Application Internal Error - /home/bsatou/bd_huinya/index_sex
 Terminated at: 2019-09-10 14:25:47
 Unrecoverable error 9012: Can't locate the starting procedure: 'MAIN'
 ------------------------------------------------------------------------
+Application Internal Error - /home/bsatou/bd_huinya/set_relation
+Terminated at: 2019-09-17 18:35:50
+Unrecoverable error 6005: Exception SIGSEGV at address 0x7fffd6075ff8
+Called from DBSETRELATION(0)
+Called from SET_RELATION(15) in set_relation.prg
+------------------------------------------------------------------------
+Application Internal Error - /home/bsatou/bd_huinya/set_relation
+Terminated at: 2019-09-17 18:37:13
+Unrecoverable error 6005: Exception SIGSEGV at address 0x7ffd2baf3ff8
+Called from DBSETRELATION(0)
+Called from SET_RELATION(15) in set_relation.prg
+------------------------------------------------------------------------
+Application Internal Error - /home/bsatou/bd_huinya/set_relation
+Terminated at: 2019-09-17 18:37:26
+Unrecoverable error 6005: Exception SIGSEGV at address 0x7ffe8699eff8
+Called from DBSETRELATION(0)
+Called from SET_RELATION(15) in set_relation.prg
+------------------------------------------------------------------------
+Application Internal Error - /home/bsatou/bd_huinya/set_relation
+Terminated at: 2019-09-17 18:40:29
+Unrecoverable error 6005: Exception SIGSEGV at address 0x7ffc2d443ff8
+Called from DBSETRELATION(0)
+Called from SET_RELATION(13) in set_relation.prg
+------------------------------------------------------------------------
+Application Internal Error - /home/bsatou/bd_huinya/set_relation
+Terminated at: 2019-09-17 18:40:50
+Unrecoverable error 6005: Exception SIGSEGV at address 0x7fff54dbaff8
+Called from DBSETRELATION(0)
+Called from SET_RELATION(13) in set_relation.prg
+------------------------------------------------------------------------
+Application Internal Error - /home/bsatou/bd_huinya/set_relation
+Terminated at: 2019-09-17 18:43:38
+Unrecoverable error 6005: Exception SIGSEGV at address 0x7ffd8c299ff8
+Called from DBSETRELATION(0)
+Called from SET_RELATION(12) in set_relation.prg
+------------------------------------------------------------------------
+Application Internal Error - /home/bsatou/bd_huinya/set_relation
+Terminated at: 2019-09-17 18:43:47
+Unrecoverable error 6005: Exception SIGSEGV at address 0x7ffcca1e5ff8
+Called from DBSETRELATION(0)
+Called from SET_RELATION(12) in set_relation.prg
+------------------------------------------------------------------------
+Application Internal Error - /home/bsatou/bd_huinya/set_relation
+Terminated at: 2019-09-17 18:44:04
+Unrecoverable error 6005: Exception SIGSEGV at address 0x7ffdc3f64ff8
+Called from DBSETRELATION(0)
+Called from SET_RELATION(12) in set_relation.prg
+------------------------------------------------------------------------
+Application Internal Error - /home/bsatou/bd_huinya/set_relation
+Terminated at: 2019-09-17 18:44:11
+Unrecoverable error 6005: Exception SIGSEGV at address 0x7fff643f1ff8
+Called from DBSETRELATION(0)
+Called from SET_RELATION(12) in set_relation.prg
+------------------------------------------------------------------------
+Application Internal Error - /home/bsatou/bd_huinya/set_relation
+Terminated at: 2019-09-17 18:44:20
+Unrecoverable error 6005: Exception SIGSEGV at address 0x7ffdabed4ff8
+Called from DBSETRELATION(0)
+Called from SET_RELATION(12) in set_relation.prg
+------------------------------------------------------------------------
